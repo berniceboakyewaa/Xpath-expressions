@@ -1,0 +1,3 @@
+/microblogging_site/posts/post/content
+/microblogging_site/users/user
+/microblogging_site/posts/post[author='user1']
